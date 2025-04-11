@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "15360441222",
+    "project_id": "lovechat-v2",
+    "storage_bucket": "lovechat-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15360441222:android:a15a3271cc4cecfb928a07",
+        "android_client_info": {
+          "package_name": "com.example.lovechat_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15360441222-04r7s76reqfgrvso4hnpqmj3a45n1411.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZL4guU_oSdz7cwSSuJI-XSKPkBwdvLZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15360441222-04r7s76reqfgrvso4hnpqmj3a45n1411.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15360441222-c87ol2oe7ugnksn2oelfgk06k4od5h8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lovechatV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
